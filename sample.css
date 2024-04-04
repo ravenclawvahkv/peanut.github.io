@@ -1,0 +1,29 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .peanut-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .peanut {
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .peanut-text {
+    width: 70%;
+    padding: 20px;
+  }
+  
+  .peanut-image {
+    width: 30%;
+  }
+  
+  .peanut-image img {
+    width: 100%;
+  }
+  
